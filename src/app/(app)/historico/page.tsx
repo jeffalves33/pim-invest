@@ -37,7 +37,7 @@ export default async function Historico({ searchParams }: { searchParams: Promis
   if (!tipo) query = query.neq('action', 'price_updated') // "Tudo" mostra decisões, não cotações
 
   const { data } = await query
-  const rows = (data ?? []) as (ActivityEntry & { assets: { ticker: string } | null })[]
+  const rows = (data ?? []) as unknown as (ActivityEntry & { assets: { ticker: string } | null })[]
 
   const groups = new Map<string, typeof rows>()
   for (const r of rows) {
