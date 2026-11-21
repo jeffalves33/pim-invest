@@ -1,0 +1,20 @@
+{
+  "ticker": "SAPR11",
+  "name": "Companhia de Saneamento do Paraná — Sanepar",
+  "related_tickers": "SAPR3 (ON), SAPR4 (PN); unit = 1 ON + 4 PN",
+  "asset_class": "acao",
+  "sector": "Utilidade pública — Água e saneamento",
+  "category": "Empresa regulada, sociedade de economia mista, perfil de valor e dividendos",
+  "market": "B3 — Nível 2",
+  "currency": "BRL",
+  "country": "Brasil",
+  "website": "https://www.sanepar.com.br",
+  "ri_site": "https://ri.sanepar.com.br",
+  "description": "A Sanepar é a companhia de saneamento do Paraná, uma sociedade de economia mista controlada pelo governo estadual e listada na B3 desde 2002. Ela capta, trata e distribui água e coleta e trata esgoto em 345 municípios (344 no Paraná e um em Santa Catarina), atendendo 4,4 milhões de economias de água e 3,7 milhões de esgoto. Também opera aterros de resíduos sólidos em escala pequena.\n\nA empresa ganha dinheiro cobrando tarifas de água e esgoto dos consumidores. As tarifas são definidas pela Agepar, a agência reguladora estadual, que calcula o valor necessário para cobrir custos considerados eficientes e remunerar os investimentos feitos na rede. Água responde por 59% da receita e esgoto por 38%. Curitiba sozinha gera 21,8% do faturamento.\n\nÉ a terceira maior companhia de saneamento listada do país, atrás de Sabesp e Copasa, e a única das três que continua sob controle estatal. Atende 100% da população urbana de sua área com água tratada e 83,5% com coleta de esgoto, com 100% do esgoto coletado tratado. Os contratos com 343 municípios vencem em 2048. A unit SAPR11 reúne uma ação ordinária e quatro preferenciais e é o papel mais líquido da companhia.",
+  "phase": "f3",
+  "current_price": 32.30,
+  "price_date": "2026-11-12",
+  "price_source": "análise (StatusInvest / Investidor10 / BTG)",
+  "market_cap": 9900000000,
+  "dossier_url": "https://claude.ai/artifact/GxvYnp5M1bvKM3ztWohvdb"
+}

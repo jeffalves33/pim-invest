@@ -1,0 +1,132 @@
+1. IDENTIFICAÇÃO
+Data da análise: 12/11/2026
+Versão: 1
+Horizonte: 3 a 5 anos
+Filosofia predominante: Value
+Próxima revisão: 26/02/2027
+Data ref. da cotação: 12/11/2026
+Último balanço usado: 30/09/2026 (3T26, divulgado em 12/11/2026)
+Objetivo do investimento: Valorização por convergência ao valor justo, com renda de dividendos em segundo plano.
+Fonte dos dados: Release 3T26 e 4T25 (RI Sanepar); fato relevante de 11/12/2025; Agepar; InfoMoney/Reuters; Genial; BTG; XP. Cotação: StatusInvest, Investidor10 e BTG.
+Eventos a acompanhar:
+- 06/01/2027 — posse do novo governador do Paraná; indicações para diretoria e conselho
+- 26/02/2027 — divulgação do resultado do 4T26 (data estimada)
+- 17/05/2027 — reajuste tarifário anual pela nova metodologia da Agepar (data estimada)
+
+2. TESE
+Qual oportunidade estou identificando?
+Monopólio regulado de água e esgoto no Paraná, com contratos até 2048, negociando a 6,8 vezes o lucro recorrente e a 0,80 vez o patrimônio, perto da mínima de 52 semanas. Ainda não há oportunidade: o preço está acima do preço máximo de compra de R$ 27,00. A entrada só faz sentido abaixo desse nível, com a margem estabilizada e a nova regra de reajuste definida sem perda de tarifa real.
+
+Por que acredito que ele pode se valorizar?
+Receita cresce cerca de 8% ao ano com reajustes, volume e expansão do esgoto. O plano de R$ 13 bilhões em 2026-2030 amplia a base de ativos remunerada na tarifa. Corte de custos pelo novo governo, queda da Selic e a revisão tarifária de 2029 podem destravar valor. O passivo do precatório já está integralmente no balanço.
+
+O que faria minha tese deixar de ser válida?
+Margem EBITDA ajustada abaixo de 36% por dois trimestres seguidos; decisão da Agepar que reduza a tarifa real ou glose investimentos; intervenção do governo em tarifa ou dividendos; dívida líquida mais passivo regulatório acima de 3,0 vezes o EBITDA; lucro recorrente anualizado abaixo de R$ 1,2 bilhão.
+
+Gatilhos monitorados:
+- Margem EBITDA ajustada | menor que | 36,0 | 37,8 | 30/09/2026
+- Dívida líquida + passivo regulatório / EBITDA | maior que | 3,0 | 2,4 | 30/09/2026
+- Lucro recorrente anualizado (R$ bilhões) | menor que | 1,2 | 1,45 | 30/09/2026
+
+3. INDICADORES
+P/L: 6,8 | LTM recorrente | sobre lucro recorrente estimado de R$ 1,45 bi; reportado 19,4
+P/VP: 0,80 | set/26 | VPA de R$ 41,05 por unit
+ROE: 11,7 | LTM recorrente | estimado; reportado 4,1
+ROIC: 5,2 | 3T26 anualizado | abaixo do custo de capital
+EV/EBITDA: 5,3 | LTM | com passivo regulatório e EBITDA ajustado; reportado 4,3
+Dívida líquida/EBITDA: 2,4 | set/26 | com passivo regulatório; reportada 0,8; covenant 3,0
+Margem líquida: 18,9 | LTM recorrente | reportada 6,7
+CAGR da receita: 8,5 | 2021-2025 | reajustes, volume e expansão do esgoto
+Dividend Yield: 4,5 | normalizado | R$ 1,46 por unit com payout de 30%; data-com 12 meses R$ 0,55; pago em 12 meses R$ 1,96
+Indicador personalizado — Margem EBITDA ajustada: 41,4 | LTM | 3T26 de 37,8; 44,9 em 2023
+Indicador personalizado — Lucro recorrente por unit: 4,86 | LTM | R$ por unit; base do valuation
+Indicador personalizado — Payout: 29,6 | exercício 2025 | JCP do 1S26 cancelado
+Indicador personalizado — Valor patrimonial por unit: 41,05 | set/26 | R$ por unit
+
+4. VALUATION
+Cotação atual: 32,30
+Valor justo pessimista: 24,00
+Valor justo base: 36,00
+Valor justo otimista: 48,00
+Margem de segurança (%): 25
+Preço máximo de compra: 27,00
+Metodologia: Dividendos descontados em dois estágios, conferido por múltiplo de lucro recorrente e EV/RAB.
+Premissas: Lucro recorrente de R$ 1,45 bilhão; crescimento real de 3% ao ano até 2033 e 1,5% na perpetuidade; payout de 30% até 2033 e cerca de 80% depois; custo de capital próprio real de 10,5% (NTN-B assumida em 7,5% mais prêmio de 3%). Conferência: 7,5 vezes o lucro recorrente e 0,75 vez uma base de ativos estimada em R$ 24 bilhões. Pessimista: lucro de R$ 1,3 bilhão, crescimento de 1%, custo de capital de 12%. Otimista: lucro de R$ 1,6 bilhão, crescimento de 4,5%, custo de capital de 9,5%. Cada ponto percentual no custo de capital move o valor justo em cerca de R$ 5. Margem de 25%, acima dos 20% de referência, pelo risco regulatório e pela troca de governo.
+
+5. ESTRATÉGIA DE COMPRA
+Condição ideal de entrada: Cotação entre R$ 25,00 e R$ 27,00 sem piora dos fundamentos, com margem EBITDA ajustada acima de 37% e nenhum gatilho de invalidação rompido.
+Máx. de aportes: —
+Primeira compra planejada: Nenhuma. Aguardando preço; alerta em R$ 27,00.
+Critérios para compras adicionais: Reavaliar a tese a cada compra. Reforçar só abaixo de R$ 27,00 e com lucro recorrente anualizado acima de R$ 1,35 bilhão. Não fazer preço médio apenas porque caiu.
+Condições para não comprar, mesmo no preço: Queda causada por decisão regulatória ou do governo que reduza a tarifa real; margem EBITDA ajustada abaixo de 36%; dividendo abaixo do mínimo estatutário; alavancagem econômica acima de 3,0 vezes.
+
+6. ESTRATÉGIA DE VENDA
+Condições de redução ou realização parcial: Cotação acima de R$ 36,00 sem melhora dos fundamentos; revisão do valor justo para baixo deixando a cotação acima dele; margem EBITDA ajustada abaixo de 37% por dois trimestres; alavancagem econômica acima de 2,8 vezes.
+Condições de venda integral: Cotação acima de R$ 44,00 sem revisão do valor justo para cima, ou qualquer gatilho de invalidação rompido.
+Quando manter mesmo após o alvo: Se o valor justo for revisto para cima por corte de custos comprovado em dois trimestres, queda relevante dos juros reais, ganho judicial sobre os 25% do precatório ou agenda concreta de privatização.
+
+7. RISCOS
+Risco 1
+Descrição: Novas decisões da Agepar contra o acionista
+Categoria: Regulatório
+Probabilidade: Média
+Impacto: Alta
+Observações: Consulta Pública 006/2026 muda a metodologia de reajuste a partir de 2027. Acompanhar o índice de maio de 2027 e as notas técnicas. Invalida a tese.
+
+Risco 2
+Descrição: Interferência do novo governo estadual
+Categoria: Político
+Probabilidade: Média
+Impacto: Alta
+Observações: Governador eleito criticou reajustes e prometeu choque de gestão. Acompanhar indicações para diretoria e conselho a partir de janeiro de 2027. Invalida a tese.
+
+Risco 3
+Descrição: Compressão estrutural de margem
+Categoria: Operacional
+Probabilidade: Alta
+Impacto: Alta
+Observações: Custos sobem acima da receita há dois anos. Com margem de 37%, o lucro recorrente cai para perto de R$ 1,2 bilhão. Invalida a tese.
+
+Risco 4
+Descrição: Dividendos abaixo do esperado
+Categoria: Dividendos
+Probabilidade: Alta
+Impacto: Média
+Observações: Mínimo obrigatório estimado para 2026 é de R$ 0,36 por unit. Acompanhar a deliberação de dezembro de 2026.
+
+Risco 5
+Descrição: Juros altos por mais tempo
+Categoria: Macroeconômico
+Probabilidade: Média
+Impacto: Média
+Observações: Selic em 13,75%. Cada ponto percentual na taxa de desconto retira cerca de R$ 5 do valor justo.
+
+Risco 6
+Descrição: Execução e financiamento do plano de R$ 13 bilhões
+Categoria: Financeiro
+Probabilidade: Média
+Impacto: Média
+Observações: Dívida econômica de 2,4 vezes o EBITDA; limite dos covenants é 3,0 vezes. R$ 1,97 bilhão em obras não será remunerado.
+
+Risco 7
+Descrição: Custo de carregar o passivo regulatório do precatório
+Categoria: Regulatório
+Probabilidade: Alta
+Impacto: Baixa
+Observações: R$ 95 milhões por trimestre, hoje compensados pela receita do caixa; deixa de compensar se a Selic cair.
+
+Risco 8
+Descrição: Seca e clima
+Categoria: Operacional
+Probabilidade: Baixa
+Impacto: Média
+Observações: Reservatórios em 100% em 30/09/2026.
+
+8. CONCLUSÃO
+Classificação: Aguardando oportunidade
+Qualidade da empresa: Média
+Atratividade do preço: Média
+Risco geral: Alto
+Grau de confiança da análise: Médio
+Justificativa: Não comprar agora. Empresa de qualidade média a preço razoável, mas o ganho até o valor justo base de R$ 36,00 não compensa a perda possível no cenário pessimista de R$ 24,00. A queda recente retirou do preço a expectativa de privatização e o dividendo do precatório, mas ainda não embute a piora de margem do 3T26. Aguardar a reação do mercado ao 3T26, o JCP de dezembro, a posse do novo governo, a regra do reajuste de 2027 e o resultado do 4T26. Alerta de preço em R$ 27,00.
+Principais limitações: Valor justo sensível a juros e à regulação; base de ativos homologada e taxa da NTN-B não validadas; lucro recorrente calculado com ajustes próprios; nova regra de reajuste ainda em consulta pública.

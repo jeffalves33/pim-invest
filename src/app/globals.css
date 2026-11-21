@@ -1,0 +1,121 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: 246 246 243;
+  --surface: 255 255 255;
+  --surface2: 240 240 235;
+  --line: 226 225 219;
+  --ink: 24 24 27;
+  --ink2: 82 82 91;
+  --ink3: 136 136 146;
+  --accent: 15 118 110;
+  --ok: 21 128 61;
+  --warn: 180 83 9;
+  --bad: 190 18 60;
+  --info: 37 99 235;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: 12 13 15;
+    --surface: 22 23 26;
+    --surface2: 31 32 36;
+    --line: 45 47 52;
+    --ink: 237 237 234;
+    --ink2: 172 172 178;
+    --ink3: 118 118 127;
+    --accent: 45 212 191;
+    --ok: 74 222 128;
+    --warn: 251 191 36;
+    --bad: 251 113 133;
+    --info: 96 165 250;
+    color-scheme: dark;
+  }
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    @apply bg-bg text-ink antialiased;
+    font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto,
+      'Helvetica Neue', Arial, sans-serif;
+    overscroll-behavior-y: none;
+  }
+  /* números alinhados em colunas, zero sem barra */
+  .num {
+    font-variant-numeric: tabular-nums;
+    font-feature-settings: 'tnum' 1, 'zero' 0;
+  }
+  /* inputs com 16px evitam o zoom automático do iOS */
+  input, select, textarea {
+    font-size: 16px;
+  }
+  summary::-webkit-details-marker {
+    display: none;
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-2xl border border-line bg-surface;
+  }
+  .card-pad {
+    @apply rounded-2xl border border-line bg-surface p-4;
+  }
+  .label {
+    @apply text-2xs font-medium uppercase tracking-wide text-ink3;
+  }
+  .input {
+    @apply w-full rounded-xl border border-line bg-surface px-3 py-2.5 text-ink outline-none
+      placeholder:text-ink3 focus:border-accent focus:ring-2 focus:ring-accent/20;
+  }
+  .textarea {
+    @apply input min-h-[96px] leading-relaxed;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold
+      transition active:scale-[0.98] disabled:opacity-50 disabled:active:scale-100;
+  }
+  .btn-primary {
+    @apply btn bg-accent text-white dark:text-black;
+  }
+  .btn-secondary {
+    @apply btn border border-line bg-surface text-ink;
+  }
+  .btn-ghost {
+    @apply btn px-3 text-ink2;
+  }
+  .btn-danger {
+    @apply btn border border-bad/40 bg-bad/10 text-bad;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1 whitespace-nowrap rounded-full px-2.5 py-1 text-xs font-medium;
+  }
+  .safe-top {
+    padding-top: env(safe-area-inset-top);
+  }
+  .safe-bottom {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+  .pb-nav {
+    padding-bottom: calc(76px + env(safe-area-inset-bottom));
+  }
+  .prose-pim {
+    @apply whitespace-pre-line text-[15px] leading-relaxed text-ink;
+  }
+}
+
+@layer utilities {
+  .no-scrollbar {
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}

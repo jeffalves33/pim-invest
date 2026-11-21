@@ -1,0 +1,20 @@
+{
+  "ticker": "BBAS3",
+  "name": "Banco do Brasil S.A.",
+  "related_tickers": "BDORY (ADR nível I, EUA); BBSE3 (BB Seguridade, controlada a 68,26%)",
+  "asset_class": "acao",
+  "sector": "Financeiro — Bancos",
+  "category": "Banco múltiplo, sociedade de economia mista controlada pela União; perfil de valor",
+  "market": "B3 — Novo Mercado",
+  "currency": "BRL",
+  "country": "Brasil",
+  "website": "https://www.bb.com.br",
+  "ri_site": "https://ri.bb.com.br",
+  "description": "O Banco do Brasil é um banco múltiplo fundado em 1808, controlado pela União, que detém 50% das ações; os outros 49,6% são negociados na B3. É o segundo maior banco do país em ativos, com R$ 2,5 trilhões, uma carteira de crédito de R$ 1,3 trilhão, 3.909 agências e cerca de 83 mil funcionários.\n\nO banco ganha dinheiro principalmente com a diferença entre os juros que cobra nos empréstimos e o custo de captar recursos de clientes e do mercado. Essa margem financeira somou R$ 80,9 bilhões nos nove primeiros meses de 2026. A segunda fonte são tarifas e serviços, como contas, cartões, consórcios e gestão de fundos (R$ 27,2 bilhões no período). A terceira é a participação em empresas do grupo, como BB Seguridade, Banco Votorantim e Banco Patagonia.\n\nA carteira é dividida em três partes de tamanho parecido: pessoa física (R$ 357,7 bilhões, sobretudo consignado), empresas e governo (R$ 464,4 bilhões) e agronegócio (R$ 403,6 bilhões). É o maior financiador do agro brasileiro, com 47,7% do crédito rural do sistema, e líder em consignado (19,5%) e em gestão de recursos de terceiros (22,4%).\n\nPor ser estatal, o banco também executa políticas públicas, como o Plano Safra e programas de renegociação de dívidas rurais, o que influencia sua rentabilidade e sua política de dividendos.",
+  "phase": "f3",
+  "current_price": 14.84,
+  "price_date": "2026-11-17",
+  "price_source": "análise (Money Times / Investidor10)",
+  "market_cap": 84700000000,
+  "dossier_url": "https://claude.ai/artifact/Hyswgq7hRK7iZeDUpKaX8c"
+}

@@ -1,0 +1,135 @@
+1. IDENTIFICAÇÃO
+Data da análise: 17/11/2026
+Versão: 1
+Horizonte: 3 a 5 anos
+Filosofia predominante: Value
+Próxima revisão: 19/02/2027
+Data ref. da cotação: 17/11/2026
+Último balanço usado: 30/09/2026 (3T26, divulgado em 11/11/2026)
+Objetivo do investimento: Valorização pela normalização do ROE após o ciclo de inadimplência do agro; dividendos em segundo plano, com payout reduzido a 25%.
+Fonte dos dados: Kit do investidor 3T26 do BB (sumário, análise do desempenho, séries históricas, apresentação); sumário 1T26; relatório Ticker Wealth 3T26 (conferido); Genial; BTG; InfoMoney; Bloomberg via InvestNews; Tesouro Nacional; Copom. Cotação: Money Times e Investidor10.
+Eventos a acompanhar:
+- 01/01/2027 — fim dos regimes transitórios da Res. CMN 4.966 (efeito no capital)
+- 05/01/2027 — posse do novo mandato presidencial; definição do comando do BB
+- 17/02/2027 — anúncio do complemento do dividendo de 2026
+- 10/03/2027 — pagamento do complemento do dividendo de 2026
+
+2. TESE
+Qual oportunidade estou identificando?
+Comprar uma das franquias bancárias mais eficientes do país perto do fundo de um ciclo de crédito, quando o mercado paga menos da metade do patrimônio. Ainda não há oportunidade: o pico da inadimplência não foi confirmado, o comando do banco pode mudar e o capital está abaixo da referência interna. A entrada só faz sentido abaixo de R$ 12,60 e com sinais concretos de melhora.
+
+Por que acredito que ele pode se valorizar?
+A receita continua crescendo (margem financeira +7,4% e serviços +4,8% em 9M26) e a eficiência segue entre as melhores do setor. O que derrubou o lucro foi o custo do crédito, concentrado em safras antigas do agro. As safras contratadas após julho de 2025 têm pontualidade de 91% e cerca de 80% da safra 2026/27 tem alienação fiduciária. Se o custo do crédito voltar de R$ 80 bilhões para R$ 50 a 55 bilhões por ano, o lucro volta para mais de R$ 20 bilhões e o ROE para 12% a 14%. Queda da Selic e venda de participações para reforçar capital aceleram esse caminho.
+
+O que faria minha tese deixar de ser válida?
+Inadimplência sem pico em 2027, com custo do crédito trimestral acima de R$ 24 bilhões; Capital Principal abaixo de 10% ou anúncio de aumento de capital; nova renegociação rural imposta ao banco ou presidente nomeado para afrouxar a cobrança; cobertura de 90 dias abaixo de 120%; inadimplência +90 dias acima de 7%.
+
+Gatilhos monitorados:
+- Inadimplência +90 dias | maior que | 7,0 | 6,08 | 30/09/2026
+- Custo do crédito trimestral (R$ bilhões) | maior que | 24,0 | 21,2 | 30/09/2026
+- Capital Principal (CET1) | menor que | 10,0 | 10,80 | 30/09/2026
+- Índice de cobertura 90 dias | menor que | 120,0 | 137,8 | 30/09/2026
+- Inadimplência agro +90 dias | maior que | 8,0 | 6,92 | 30/09/2026
+
+3. INDICADORES
+P/L: 8,5 | 2026E | ponto médio do guidance (R$ 10 bi); LTM ajustado 5,9; 2027E BTG 5,6
+P/VP: 0,47 | set/26 | VPA R$ 31,63; mínima da série; 0,57 sobre o Capital Principal
+ROE: 7,5 | LTM | ajustado; 9M26 6,2; 3T26 2,8; média 2022-2024 de 21
+ROIC: — | — | não se aplica a bancos
+EV/EBITDA: — | — | não se aplica a bancos
+Dívida líquida/EBITDA: — | — | não se aplica a bancos; ver Capital Principal
+Margem líquida: — | — | não se aplica a bancos; ver ROE
+CAGR da receita: 14,8 | 2021-2025 | margem financeira bruta; guidance 2026 de +2,5 a +4,5
+Dividend Yield: 4,1 | data-com 12 meses | R$ 0,61 por ação; esperado 2026 de R$ 0,39 a 0,48 por ação; 2027 condicionado ao capital
+Indicador personalizado — Capital Principal (CET1): 10,80 | set/26 | mínimo regulatório 8,0; referência interna 11,0
+Indicador personalizado — Inadimplência +90 dias: 6,08 | set/26 | agro 6,92; PF 9,14; PJ 3,44
+Indicador personalizado — Custo do crédito sobre carteira: 7,14 | 3T26 anualizado | guidance 2026 de R$ 80 a 83 bi
+Indicador personalizado — Índice de eficiência: 28,5 | 12 meses até set/26 | 3T26 de 30,3
+
+4. VALUATION
+Cotação atual: 14,84
+Valor justo pessimista: 12,00
+Valor justo base: 18,00
+Valor justo otimista: 30,00
+Margem de segurança (%): 30
+Preço máximo de compra: 12,60
+Metodologia: Lucro residual (principal), conferido por P/VP justificado (Gordon) e P/L sobre lucro normalizado de 2028.
+Premissas: Valor patrimonial inicial de R$ 31,63 por ação. Base: ROE de 8,5% em 2027, 11% em 2028 e 13% a partir de 2029; custo de capital de 17% (NTN-B 2035 de 7,85% mais inflação e prêmio de banco estatal); crescimento de longo prazo de 6%; payout de 25% a 35%; lucro implícito de R$ 15,3 bi em 2027. Pessimista: ROE de 7%, 9% e 10%, longo prazo de 11%, custo de capital de 18%. Otimista: ROE de 11%, 14% e 15%, longo prazo de 16%, custo de capital de 16%. Cada ponto no custo de capital move o valor base em cerca de R$ 2; cada ponto no ROE de longo prazo, em cerca de R$ 2,20. Margem de 30% (acima dos 20% padrão) por lucro ainda em queda, risco de troca de comando e capital apertado.
+
+5. ESTRATÉGIA DE COMPRA
+Condição ideal de entrada: Cotação entre R$ 11,50 e R$ 12,60, com pelo menos um trimestre de queda na formação de inadimplência agro, Capital Principal igual ou superior a 10,5% e nenhum gatilho de invalidação rompido.
+Máx. de aportes: —
+Primeira compra planejada: Nenhuma. Aguardando preço e sinais de pico; alerta em R$ 12,60.
+Critérios para compras adicionais: Reavaliar a tese a cada compra. Reforçar só abaixo de R$ 12,60 e depois de dois trimestres seguidos de queda na formação de inadimplência. Limitar a posição a um peso compatível com risco alto. Não fazer preço médio só porque caiu.
+Condições para não comprar, mesmo no preço: Nova medida de renegociação rural imposta ao banco; presidente nomeado sem perfil técnico; anúncio de aumento de capital; formação de inadimplência ainda em alta; custo do crédito trimestral acima de R$ 24 bilhões.
+
+6. ESTRATÉGIA DE VENDA
+Condições de redução ou realização parcial: Cotação acima de R$ 18,00 sem melhora dos fundamentos; Capital Principal entre 10,0% e 10,5% por dois trimestres; ROE trimestral sem trajetória de alta ao longo de 2027.
+Condições de venda integral: Qualquer gatilho de invalidação rompido; cotação acima de R$ 26,00 sem revisão do valor justo para cima.
+Quando manter mesmo após o alvo: Se o valor justo for revisto para cima por queda comprovada da inadimplência em dois trimestres, ROE trimestral acima de 13%, retomada do payout de 40% ou venda de participações que reforce o capital.
+
+7. RISCOS
+Risco 1
+Descrição: Inadimplência agro sem pico em 2027
+Categoria: Crédito
+Probabilidade: Média
+Impacto: Alta
+Observações: Monitorar a formação de inadimplência agro (R$ 14,7 bi no 3T26) e a pontualidade das safras novas. Invalida a tese.
+
+Risco 2
+Descrição: Interferência política e troca de comando
+Categoria: Político
+Probabilidade: Alta
+Impacto: Alta
+Observações: Governo avalia substituir a presidente por nome ligado ao agro. Monitorar a nomeação e novas medidas provisórias de crédito rural. Invalida a tese se houver afrouxamento da cobrança.
+
+Risco 3
+Descrição: Insuficiência de capital
+Categoria: Financeiro
+Probabilidade: Média
+Impacto: Alta
+Observações: CET1 de 10,80% com impactos regulatórios previstos de 2027 a 2029. Pode zerar dividendos de 2027 ou exigir aumento de capital. Invalida a tese abaixo de 10%.
+
+Risco 4
+Descrição: Contaminação da carteira de pessoa física
+Categoria: Crédito
+Probabilidade: Média
+Impacto: Média
+Observações: Inadimplência PF de 9,14%; monitorar consignado privado (R$ 12,3 bi) e formação de inadimplência PF.
+
+Risco 5
+Descrição: Compressão da margem financeira
+Categoria: Operacional
+Probabilidade: Alta
+Impacto: Média
+Observações: Guidance de margem cortado para +2,5% a 4,5% em 2026; carteira deve encolher. Monitorar margem trimestral e spread.
+
+Risco 6
+Descrição: Juros altos por mais tempo
+Categoria: Macroeconômico
+Probabilidade: Média
+Impacto: Média
+Observações: Selic de 13,75% mantida em 04/11/2026. Cada ponto no custo de capital tira cerca de R$ 2 do valor justo.
+
+Risco 7
+Descrição: Realização dos créditos tributários
+Categoria: Contábil
+Probabilidade: Baixa
+Impacto: Alta
+Observações: R$ 104,8 bi, equivalentes a 55% do patrimônio. Monitorar saldo e nota de realização.
+
+Risco 8
+Descrição: Disputas judiciais e reputação no agro
+Categoria: Jurídico
+Probabilidade: Média
+Impacto: Baixa
+Observações: Planos econômicos e ação coletiva sobre venda casada no crédito rural. Monitorar itens extraordinários.
+
+8. CONCLUSÃO
+Classificação: Aguardando oportunidade
+Qualidade da empresa: Média
+Atratividade do preço: Média
+Risco geral: Alto
+Grau de confiança da análise: Médio
+Justificativa: Não comprar agora. A franquia é boa, mas o patrimônio rende 7,5% e custa cerca de 17%, então o desconto sobre o patrimônio é em boa parte justo. O lucro ainda não parou de cair, a inadimplência se espalhou para pessoa física, o capital está abaixo da referência interna e o comando pode mudar. O preço atual está acima do preço máximo de compra de R$ 12,60 e o ganho esperado até o valor justo base de R$ 18,00 não compensa a perda possível no cenário pessimista de R$ 12,00. Aguardar o comando definido, o resultado do 4T26, o guidance de 2027 e o efeito da Res. 4.966 no capital.
+Principais limitações: Valor justo muito sensível ao ROE de longo prazo e ao custo de capital; tamanho dos impactos regulatórios de 2027 a 2029 não divulgado; proventos de 2021 e 2022 estimados pelo payout; cotação de 17/11 com divergência entre fontes (R$ 14,62 a R$ 14,84); teleconferência do 3T26 não analisada diretamente; troca de presidente noticiada por fontes, sem confirmação oficial.
